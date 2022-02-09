@@ -363,4 +363,7 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Token
-*.env
+.env
+.env.example
+.env.local
+.env.staging
