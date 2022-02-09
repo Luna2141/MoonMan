@@ -363,4 +363,4 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Token
-.env
+*.env
